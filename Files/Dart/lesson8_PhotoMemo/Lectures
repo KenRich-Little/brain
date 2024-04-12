@@ -1,0 +1,53 @@
+agenda: https://youtu.be/sNhR7rEVfFQ
+copy the project folder from previous lesson: https://youtu.be/EbOFD_UuZVE
+add a new remote repo at GitHub: https://youtu.be/oakZlVzPSOU
+If you see an error indicator on "android" folder: https://youtu.be/pSgNMrsIVHM
+detail view screen: https://youtu.be/r7Yp0Hz-e-g
+general purpose error screen: https://youtu.be/-v84lUmoikY
+navigate to detail view screen with photomemo injection: https://youtu.be/quqwnZrB70k
+fix a warning in home_controller about BuildContext across async gaps: https://youtu.be/Pgb_MpWRlDc
+test for error screen: https://youtu.be/WKMO-JXD1Hw
+clone( ) and copyFrom( ) of PhotoMemo: https://youtu.be/2L_pYR0Tv-U
+model - detailview screen: https://youtu.be/Idb7560oZsc
+controller - detailview screen: https://youtu.be/a_l4rSeCPCY
+attach controller and model to detail view screen: https://youtu.be/4NDihZDaVVk
+edit/update mode changes on AppBar: https://youtu.be/k52qGEtCin8
+photo view browse only: https://youtu.be/s35hjSIO5kg
+title/memo/sharedwith in textformfields: https://youtu.be/hNC_O-J3slI
+revised validator for sharedwith in PhotoMemo: https://youtu.be/7mwA6rVeIQE
+revised onsaved sharedwith in creatememo model: https://youtu.be/QnKXA6eZeXE
+test for revised sharedwith validator: https://youtu.be/sgJOG5dYQsw
+onsaved title/memo/sharedwith - detailview screen: https://youtu.be/TYPwoCtbRXo
+get a copy of getPhoto( ): https://youtu.be/wpgxn-BkKOo
+new photo selection to update: https://youtu.be/1u8SOpzy_FY
+upload new photo to Storage: https://youtu.be/oXdG-HQCA7A
+show uploading progress on screen: https://youtu.be/GpamXpLjuF8
+updatePhotoMemo( ): https://youtu.be/5sWgkhnuDhQ
+setup fields to be updated: https://youtu.be/TzWJWmrCw3I
+case that no changes are made: https://youtu.be/yIhzwB6oVT8
+update photomemo doc - require Firebase security rules: https://youtu.be/LkM1rvjl-Oo
+Firestore security rules to update existing photomemo doc: https://youtu.be/JZ9iegbubXM
+deleteFile( ) in Storage: https://youtu.be/Q62r-fqXWfU
+after updating photomemo doc: https://youtu.be/A7UCCBPj1Sw
+Storage security rules to delete a file: https://youtu.be/WjIyLaSIWqI
+reorder photomemo list on home screen upon update: https://youtu.be/6Bg8QCpQ-rQ
+delete uploaded image when failed to update photomemo doc: https://youtu.be/kJTZ0stydeY
+test for edit features: https://youtu.be/BUK1EoBQyKM
+fix logic errors in handling update errors: https://youtu.be/Rq0vsvaHM8E
+sharedWith menu on home screen: https://youtu.be/P5cdiCY47XM
+model for sharedwith screen: https://youtu.be/x2AbzmhctL4
+navigate to sharedwith screen: https://youtu.be/Iujes2KUzqs
+getSharedWithList( ) in firestore_controller: https://youtu.be/waPmYp20qOU
+load sharedwith list: https://youtu.be/91XLyhFk7WQ
+prepare test data for sharedwith list: https://youtu.be/p0zZqo4ODBo
+Firestore security rules and composite indexes for get sharedwith list: https://youtu.be/F7dNvHThKyA
+test for composite indexes for get sharedwith list: https://youtu.be/d07o8fquMXY
+loading progress of sharedwith list: https://youtu.be/pYiLP76fRWU
+card view of photomemo: https://youtu.be/gf9SmqIeZsw
+rendering shared photomemo list: https://youtu.be/WksgWQMaTM4
+select a photomemo by long press: https://youtu.be/sRFvEGJIbN0
+updated onTap handler under selection mode: https://youtu.be/LGgFru3jTO8
+conditional delete button on app bar: https://youtu.be/GGQ_Vnt3GQY
+deleteDoc( ) of firestore controller: https://youtu.be/KYYepdOgGCk
+delete the selected photomemo: https://youtu.be/lqjVIbDsQQ0
+visual effect while photomemo being deleted: https://youtu.be/Ex1IacgCRz8
